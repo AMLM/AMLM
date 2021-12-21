@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMLM
-- 👀 I’m interested in Digital transformation projects
+- 👀 I’m interested in Digital Transformation projects
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on research projects
 - 📫 How to reach me lapergolastudio@gmail.com / lmolina.ana@gmail.com
